@@ -21,7 +21,7 @@
 pkg install -y git
 pkg install python
 apt install git curl php wget -y 
-git clone https://github.com/cyberkallan/IG-blaster
+git clone https://github.com/Jasemxperes/IG-blaster
 cd IG-blaster
 python3 -m pip install requests
 
